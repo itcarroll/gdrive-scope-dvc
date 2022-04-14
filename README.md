@@ -36,7 +36,7 @@ The following steps only needed to be done once by the Google Drive folder Owner
 The following should be tested before any attempts to make a PR to DVC:
 
 - [x] Owner of "dvcstore" folder can `dvc push`
-- [ ] Owner of "dvcstore" folder can `dvc pull` from a separate clone of this project
+- [x] Owner of "dvcstore" folder can `dvc pull` from a separate clone of this project
 - [ ] Editor of "dvcstore" folder can `dvc pull`
 - [ ] Editor of "dvcstore" folder can `dvc push` changes (with a new commit to this project)
 - [ ] Manager of "dvcstore" shared drive can `dvc push`
